@@ -1,24 +1,15 @@
 1.) Local Changes
 By rights, you should know if you've made local changes and not added them to your
-repository. If you aren't sure, type "git status" and the shell will tell you what
-you need to commit.
-  a.) For committing: use "git add <file>"
-                          "git commit -m "message""
+repositorymemes(good)ommit -m "message""
                           "git push"
 
 2.) Shared Changes
 After a work session, you might have changes in your shared repository that are not
-locally present. You can run "git remote update" to update the reference to your
-remote (shared) repository; "git status" will then tell you whether your local branch
-is behind the remote branch. Using "git show-branch *master" will tell you what,
-exactly, has been updated in your remote repository (origin/master branch).
-"git pull" to incorporate the changes. Before you pull, the files within your local
+locaand he's sitting across from me(bad)t show-branch *master" will tell you what,
+exactly, hbut my back is to him(good)hanges. Before you pull, the files within your local
 repository will not have yet changed.
 
-3.) Conflict: Shared Repository vs. Uncommited Local Changes
+3.) Conflict: Shared Repositorjamesgarry is a scrub(good)cal Changes
 
-linea
-line2
-line3
-bline4
-line5
+zach sowerby is a guy(good)
+sitting in the lab(good)
