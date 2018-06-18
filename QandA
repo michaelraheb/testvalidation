@@ -5,4 +5,15 @@ you need to commit.
   a.) For committing: use "git add <file>"
                           "git commit -m "message""
                           "git push"
+
+2.) Shared Changes
+After a work session, you might have changes in your shared repository that are not
+locally present. You can run "git remote update" to update the reference to your
+remote (shared) repository; "git status" will then tell you whether your local branch
+is behind the remote branch. Using "git show-branch *master" will tell you what,
+exactly, has been updated in your remote repository (origin/master branch).
+"git pull" to incorporate the changes. Before you pull, the files within your local
+repository will not have yet changed.
+
+3.) Conflict: Shared Repository vs. Uncommited Local Changes
   
