@@ -17,7 +17,8 @@
 <text>
   <body>
     <p>
-    <add n="myelement">proper tei</add>
+      <add n="myelement">proper tei</add>
+      <add n="onlinechange">a change I made online</add>
     </p>
   </body>
 </text>
