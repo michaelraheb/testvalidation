@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Test Validation</title>
+        <author>Michael Raheb</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Non-Published</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Sourced from meager student brainpower</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+    <p>
+    <add n="myelement">proper tei</add>
+    </p>
+  </body>
+</text>
+</TEI>
