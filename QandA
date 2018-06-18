@@ -1,0 +1,8 @@
+1.) Local Changes
+By rights, you should know if you've made local changes and not added them to your
+repository. If you aren't sure, type "git status" and the shell will tell you what
+you need to commit.
+  a.) For committing: use "git add <file>"
+                          "git commit -m "message""
+                          "git push"
+  
